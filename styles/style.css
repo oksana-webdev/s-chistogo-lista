@@ -146,9 +146,9 @@ list-style: none;
   line-height: 115%;
 }
 
-.content-section__introduction{
+.content-section__introduction {
   font-size: 20px;
-  line-height: 135%;  
+  line-height: 135%;
   padding-top: 32px;
   padding-bottom: 16px;
 }
@@ -172,8 +172,8 @@ list-style: none;
 }
 
 .cards-list {
-  list-style: none; 
-  padding-top: 18px; 
+  list-style: none;
+  padding-top: 18px;
 }
 
 .card {
